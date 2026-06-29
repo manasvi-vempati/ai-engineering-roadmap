@@ -1,21 +1,21 @@
 # Machine Learning Models using Scikit-learn
 
-## Objective
+## 🎯 Objective
 
 The objective of this project is to build one classification model and one regression model using the Scikit-learn library, evaluate their performance using appropriate metrics, and compare the models.
 
 # Classification Models
 
-## Models Used
+## 🤖 Models Used
 
 - Random Forest Classifier
 - Decision Tree Classifier
 
-### Dataset
+### 🗂️ Dataset
 
 The Synthetic dataset was used for the classification task. The goal is to classify samples in a synthetic dataset into their correct classes using a machine learning classification model.
 
-### Evaluation Metrics
+### 📏 Evaluation Metrics
 
 The following metrics were used:
 
@@ -24,14 +24,14 @@ The following metrics were used:
 - Recall
 - F1-score
 
-### Results
+### 📊 Results
 
 | Model | Accuracy | Precision | Recall | F1-score |
 |--------|----------|-----------|--------|----------|
-| Random Forest | *Your Result* | *Your Result* | *Your Result* | *Your Result* |
-| Decision Tree | *Your Result* | *Your Result* | *Your Result* | *Your Result* |
+| Random Forest | *0.7650* | *0.7716* | *0.7650* | *0.7644* |
+| Decision Tree | *0.6200* | *0.6284* | *0.6200* | *0.6213* |
 
-### Which model performed better?
+### 🔍 Which model performed better?
 
 The **Random Forest Classifier** performed better than the Decision Tree Classifier because it achieved higher Accuracy, Precision, Recall, and F1-score.
 
@@ -41,30 +41,30 @@ Random Forest combines predictions from multiple decision trees, making it more 
 
 # Regression Models
 
-## Models Used
+## 🤖 Models Used
 
 - Linear Regression
 - Decision Tree Regressor
 
-### Dataset
+### 🗂️ Dataset
 
 The California Housing dataset was used for the regression task. The objective is to predict house prices based on various housing features.
 
-### Evaluation Metrics
+### 📏 Evaluation Metrics
 
 The following metrics were used:
 
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 
-### Results
+### 📊 Results
 
 | Model | MAE | MSE |
 |--------|-----|-----|
-| Linear Regression | *Your Result* | *Your Result* |
-| Decision Tree Regressor | *Your Result* | *Your Result* |
+| Linear Regression | *0.5332* | *0.5559* |
+| Decision Tree Regressor | *0.4547* | *0.4952* |
 
-### Which model performed better?
+### 🔍 Which model performed better?
 
 The better regression model is the one with the **lower MAE and MSE** because lower error values indicate that the predicted values are closer to the actual values.
 
@@ -115,7 +115,7 @@ Therefore, Accuracy should always be used together with Precision, Recall, and F
 
 ---
 
-# Conclusion
+# ✅ Conclusion
 
 This project demonstrated the implementation of both classification and regression models using Scikit-learn.
 
