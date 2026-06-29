@@ -70,7 +70,7 @@ The better regression model is the one with the **lower MAE and MSE** because lo
 
 ---
 
-# Why Evaluation Metrics Matter
+# 📚 Why Evaluation Metrics Matter
 
 Evaluation metrics help measure how well a machine learning model performs.
 
@@ -90,7 +90,7 @@ Using these metrics helps determine how reliable and accurate a model is.
 
 ---
 
-# Why Accuracy Alone Can Be Misleading
+# 📚 Why Accuracy Alone Can Be Misleading
 
 Accuracy is not always a reliable performance measure, especially when dealing with imbalanced datasets.
 
