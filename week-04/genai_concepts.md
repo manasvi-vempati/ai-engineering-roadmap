@@ -42,14 +42,12 @@ An **LLM (Large Language Model)** is an AI model trained on massive amounts of t
 A **prompt** is the instruction given to an AI model. The quality of the prompt directly affects the quality of the response.
 
 ### Poor Prompt
-```
+
 Tell me about AI.
-```
 
 ### Better Prompt
-```
+
 Explain Artificial Intelligence for beginners in 200 words. Include its definition, advantages, applications, and a real-world example.
-```
 
 ### Why Better Prompts Work
 - 🎯 Clearly define the task.
@@ -60,19 +58,15 @@ Explain Artificial Intelligence for beginners in 200 words. Include its definiti
 
 Better prompts help the AI generate more accurate, relevant, and useful responses.
 
----
-
 ## 🔍 What Are Embeddings Used For?
 
 **Embeddings** are numerical (vector) representations of words, sentences, images, or documents. They capture the meaning of data so that similar items are represented by similar vectors.
 
 ### Example
 
-```
 Cat  → [0.21, 0.45, 0.67, ...]
 Dog  → [0.23, 0.44, 0.65, ...]
 Car  → [0.91, 0.12, 0.08, ...]
-```
 
 Since **"Cat"** and **"Dog"** have similar meanings, their embeddings are closer together than those of **"Car"**.
 
@@ -86,7 +80,6 @@ Since **"Cat"** and **"Dog"** have similar meanings, their embeddings are closer
 - 🧩 Clustering similar documents
 - 🤖 Retrieval-Augmented Generation (RAG)
 
----
 
 # ✅ Summary
 
